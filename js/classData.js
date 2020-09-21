@@ -4,7 +4,7 @@ var setBanner = function(message)
     .text(message);
 }
 
-var planetPromise = d3.json("../json/classData.json")
+var planetPromise = d3.json("json/classData.json")
 
 
 
