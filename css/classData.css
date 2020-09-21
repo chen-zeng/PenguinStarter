@@ -1,0 +1,12 @@
+img{
+    width:100px;
+}
+
+
+th{
+    border:2px groove blue;
+}
+td{
+    border:1px solid blue;
+    text-align: center;
+}
